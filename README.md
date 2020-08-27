@@ -3,7 +3,7 @@
 <blockquote align="center">“Não espere resultados brilhantes se suas metas não forem claras”!</blockquote>
 
 <h1 align="center">
-  🚀 Node.js + Typescript + TypeORM + Multer🚀
+  🚀 ReactJS + Typescript 🚀
 </h1>
 
 
