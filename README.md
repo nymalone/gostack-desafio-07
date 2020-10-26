@@ -14,9 +14,6 @@ Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de tr
 
 Essa será uma aplicação que irá se conectar ao seu backend do [Desafio 06](https://github.com/nymalone/gostack-desafio-06), e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
 
-##  🤓 Conceitos importantes
-### ...
-
 ## :wrench: Funcionalidades da aplicação
 Verificar os arquivos da pasta `src` e completar onde não possui código, com o código para atingir os objetivos de cada rota.
 
